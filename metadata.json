@@ -1,0 +1,6 @@
+{
+  "name": "BookBuddy AI",
+  "description": "Your Personal Book Discovery Assistant — interactive 3D magical library and personalized AI book recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
